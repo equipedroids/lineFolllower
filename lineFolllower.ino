@@ -1,5 +1,5 @@
 #include <FalconRobot.h>
-// OLÁ MUNDO
+
 // Motors
 FalconRobotMotors motors(5, 7, 6, 8);
 // Line sensors
